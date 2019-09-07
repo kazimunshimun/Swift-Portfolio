@@ -4,13 +4,18 @@
 
 # [Backpack](https://github.com/kazimunshimun/iOS-app-Practice-Swift-/tree/master/Backpack)
 
-##### Features: Sign up and Sign in done using Firebase. Created UI for social feeds, Profile view, Search with filter options, Messaging and Chat UI, Create New trips UI
+##### Features: 
+* Sign up and Sign in done using Firebase. 
+* Created UI for social feeds, Profile view, 
+* Search with filter options, 
+* Messaging and Chat UI, 
+* Create New trips UI
 
 ##### Dependency Manager: Cocoapods (TTRangeSlider, Firebase)
 
 ##### Architectural Pattern: Model-View-Controller(MVC)
 
-[Free UI downloaded from behance](https://www.behance.net/gallery/69411833/Backpack-UI-Kit-Free-for-Adobe-XD)
+Free UI downloaded from [behance](https://www.behance.net/gallery/69411833/Backpack-UI-Kit-Free-for-Adobe-XD)
 
 [Full App features (Simulator video)](http://www.youtube.com/watch?v=j15D953bRT0)
 
@@ -21,13 +26,17 @@
 </p>
 
 # [Navigo](https://github.com/kazimunshimun/iOS-app-Practice-Swift-/tree/master/Navigo)
-##### Features: Google Map, Panel, Side Menu, Animation
+##### Features: 
+* Google Map, 
+* Panel, 
+* Side Menu, 
+* Animation
 
 ##### Dependency Manager: Cocoapods (Firebase, GoogleMaps, Panels, InteractiveSideMenu, Cosmos, Alamofire, UPCarouselFlowLayout)
 
 ##### Architectural Pattern: Model-View-Controller (MVC)
 
-[Free UI downloaded from behance](https://www.behance.net/gallery/60581581/Navigo-Transportation-UI-Kit-FREE-for-Adobe-XD)
+Free UI downloaded from [behance](https://www.behance.net/gallery/60581581/Navigo-Transportation-UI-Kit-FREE-for-Adobe-XD)
 
 [Full App features (Simulator video)](http://www.youtube.com/watch?v=4dimmOaSWZI)
 
@@ -38,13 +47,15 @@
 </p>
 
 # [Plexus](https://github.com/kazimunshimun/iOS-app-Practice-Swift-/tree/master/Plexus)
-##### Features: JSON Parsing, Animation
+##### Features: 
+* JSON Parsing, 
+* Animation
 
 ##### Dependency Manager: Cocoapods (Firebase, ActiveLabel, SkyFloatingLabelTextField, TweenController, Cosmos, Alamofire, ShimmerSwift)
 
 ##### Architectural Pattern: View-Interactor-Presenter-Entity-Router (VIPER)
 
-[Free UI downloaded from behance](https://www.behance.net/gallery/78204219/Free-Plexus-Adobe-XD-UI-Kit)
+Free UI downloaded from [behance](https://www.behance.net/gallery/78204219/Free-Plexus-Adobe-XD-UI-Kit)
 
 [Full App features (Simulator video)](http://www.youtube.com/watch?v=_qgv2bovm2s)
 
@@ -55,13 +66,15 @@
 </p>
 
 # [SocialMeetUp](https://github.com/kazimunshimun/iOS-app-Practice-Swift-/tree/master/SocialMeetUp)
-##### Features: Google Map, Animation
+##### Features: 
+* Google Map, 
+* Animation
 
 ##### Dependency Manager: Cocoapods (Firebase, GoogleMaps, SkyFloatingLabelTextField, LTMorphingLabel)
 
 ##### Architectural Pattern: Model-View-ViewModel (MVVM)
 
-[Free UI downloaded from behance](https://www.behance.net/gallery/72907227/Meetio-UI-Kit)
+Free UI downloaded from [behance](https://www.behance.net/gallery/72907227/Meetio-UI-Kit)
 
 [Full App features (Simulator video)](http://www.youtube.com/watch?v=v3i8oToZQUA)
 
@@ -73,13 +86,16 @@
 
 # [Write_](https://github.com/kazimunshimun/iOS-app-Practice-Swift-/tree/master/Write_)
 
-##### Features: Text Editor, CoreData, Animation
+##### Features: 
+* Text Editor, 
+* CoreData, 
+* Animation
 
 ##### Dependency Manager: Cocoapods (PKHUD)
 
 ##### Architectural Pattern: Model-View-ViewModel (MVVM)
 
-[Free UI downloaded from dribbble](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD)
+Free UI downloaded from [dribbble](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD)
 
 [Full App features (Simulator video)](http://www.youtube.com/watch?v=K0RXmK6jF-Y)
 
