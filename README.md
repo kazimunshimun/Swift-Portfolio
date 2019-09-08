@@ -17,7 +17,7 @@
 
 Free UI downloaded from [behance](https://www.behance.net/gallery/69411833/Backpack-UI-Kit-Free-for-Adobe-XD)
 
-Full App features ([Simulator video])(http://www.youtube.com/watch?v=j15D953bRT0)
+Full App features ([Simulator video](http://www.youtube.com/watch?v=j15D953bRT0))
 
 ###
 
@@ -38,7 +38,7 @@ Full App features ([Simulator video])(http://www.youtube.com/watch?v=j15D953bRT0
 
 Free UI downloaded from [behance](https://www.behance.net/gallery/60581581/Navigo-Transportation-UI-Kit-FREE-for-Adobe-XD)
 
-Full App features ([Simulator video])(http://www.youtube.com/watch?v=4dimmOaSWZI)
+Full App features ([Simulator video](http://www.youtube.com/watch?v=4dimmOaSWZI))
 
 ###
 
@@ -57,7 +57,7 @@ Full App features ([Simulator video])(http://www.youtube.com/watch?v=4dimmOaSWZI
 
 Free UI downloaded from [behance](https://www.behance.net/gallery/78204219/Free-Plexus-Adobe-XD-UI-Kit)
 
-Full App features ([Simulator video])(http://www.youtube.com/watch?v=_qgv2bovm2s)
+Full App features ([Simulator video](http://www.youtube.com/watch?v=_qgv2bovm2s))
 
 ###
 
@@ -76,7 +76,7 @@ Full App features ([Simulator video])(http://www.youtube.com/watch?v=_qgv2bovm2s
 
 Free UI downloaded from [behance](https://www.behance.net/gallery/72907227/Meetio-UI-Kit)
 
-Full App features ([Simulator video])(http://www.youtube.com/watch?v=v3i8oToZQUA)
+Full App features ([Simulator video](http://www.youtube.com/watch?v=v3i8oToZQUA))
 
 ###
 
@@ -97,7 +97,7 @@ Full App features ([Simulator video])(http://www.youtube.com/watch?v=v3i8oToZQUA
 
 Free UI downloaded from [dribbble](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD)
 
-Full App features ([Simulator video])(http://www.youtube.com/watch?v=K0RXmK6jF-Y)
+Full App features ([Simulator video](http://www.youtube.com/watch?v=K0RXmK6jF-Y))
 
 ###
 
