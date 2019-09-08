@@ -1,6 +1,6 @@
 # Swift-Portfolio
 
-<a href="mailto:anik1.bd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-anik1.bd-%232E9FFF?style=for-the-badge&logo=gmail"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kazi-munshimun-nabi-b5412470/"><img src="https://img.shields.io/badge/LINKEDIN-kazi.munshimun-%230077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/3478444/kazi-munshimun"><img src="https://img.shields.io/badge/Stack%20Overflow-kazi.munshimun-%23FE7A16?style=for-the-badge&logo=stackoverflow"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/kazimunshimun/Swift-Portfolio/raw/master/images/kazi_munshimun_cv.pdf"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-%2300B057?style=for-the-badge&logo=koding"></a>
+<a href="mailto:anik1.bd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-anik1.bd-%232E9FFF?style=for-the-badge&logo=gmail" height="24"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kazi-munshimun-nabi-b5412470/"><img src="https://img.shields.io/badge/LINKEDIN-kazi.munshimun-%230077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="24"></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/3478444/kazi-munshimun"><img src="https://img.shields.io/badge/Stack%20Overflow-kazi.munshimun-%23FE7A16?style=for-the-badge&logo=stackoverflow" height="24"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/kazimunshimun/Swift-Portfolio/raw/master/images/kazi_munshimun_cv.pdf"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-%2300B057?style=for-the-badge&logo=koding" height="24"></a>
 
 # [Backpack](https://github.com/kazimunshimun/iOS-app-Practice-Swift-/tree/master/Backpack)
 
@@ -17,7 +17,7 @@
 
 Free UI downloaded from [behance](https://www.behance.net/gallery/69411833/Backpack-UI-Kit-Free-for-Adobe-XD)
 
-[Full App features (Simulator video)](http://www.youtube.com/watch?v=j15D953bRT0)
+Full App features ([Simulator video])(http://www.youtube.com/watch?v=j15D953bRT0)
 
 ###
 
@@ -38,7 +38,7 @@ Free UI downloaded from [behance](https://www.behance.net/gallery/69411833/Backp
 
 Free UI downloaded from [behance](https://www.behance.net/gallery/60581581/Navigo-Transportation-UI-Kit-FREE-for-Adobe-XD)
 
-[Full App features (Simulator video)](http://www.youtube.com/watch?v=4dimmOaSWZI)
+Full App features ([Simulator video])(http://www.youtube.com/watch?v=4dimmOaSWZI)
 
 ###
 
@@ -57,7 +57,7 @@ Free UI downloaded from [behance](https://www.behance.net/gallery/60581581/Navig
 
 Free UI downloaded from [behance](https://www.behance.net/gallery/78204219/Free-Plexus-Adobe-XD-UI-Kit)
 
-[Full App features (Simulator video)](http://www.youtube.com/watch?v=_qgv2bovm2s)
+Full App features ([Simulator video])(http://www.youtube.com/watch?v=_qgv2bovm2s)
 
 ###
 
@@ -76,7 +76,7 @@ Free UI downloaded from [behance](https://www.behance.net/gallery/78204219/Free-
 
 Free UI downloaded from [behance](https://www.behance.net/gallery/72907227/Meetio-UI-Kit)
 
-[Full App features (Simulator video)](http://www.youtube.com/watch?v=v3i8oToZQUA)
+Full App features ([Simulator video])(http://www.youtube.com/watch?v=v3i8oToZQUA)
 
 ###
 
@@ -97,7 +97,7 @@ Free UI downloaded from [behance](https://www.behance.net/gallery/72907227/Meeti
 
 Free UI downloaded from [dribbble](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD)
 
-[Full App features (Simulator video)](http://www.youtube.com/watch?v=K0RXmK6jF-Y)
+Full App features ([Simulator video])(http://www.youtube.com/watch?v=K0RXmK6jF-Y)
 
 ###
 
